@@ -105,5 +105,7 @@ public class LoginPage {
 		driver.findElement(By.xpath("//button[@id='pay_now_btn_SAFEPAY']")).click();
 	}
 	
+	//abc
+	
 
 }
